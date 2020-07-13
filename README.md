@@ -18,7 +18,7 @@
 python3 simp.py <your_filename>
 ```
 
-- to test the simp.py, use:
+- for example, use:
 
 ```bash
 python3 simp.py sample
