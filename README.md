@@ -15,13 +15,13 @@
 - to run this
 
 ```bash
-python3 [simp.py](http://simp.py) <your_filename>
+python3 simp.py <your_filename>
 ```
 
 - to test the simp.py, use:
 
 ```bash
-python3 [simp.py](http://simp.py) sample
+python3 simp.py sample
 ```
 
 - it will generate a simplified file named sample(simp)
